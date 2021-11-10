@@ -8,7 +8,7 @@
 4. Store API
 5. JWT Basics
 6. Jobs API
-
+ 
 #### Course Exclusive
 
 [Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
